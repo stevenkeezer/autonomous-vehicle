@@ -13,21 +13,21 @@ Creating `Autonomous cars` and simulations from basics of `Deep Learning` and `C
 
 ### Animated GIF of Output video
 
-![gif](Lane-Line-Detection/lane_lines.gif)
+![gif](https://github.com/deepraj1729/Self-Driving-Cars/raw/master/Lane-Line-Detection/lane_lines.gif)
 
 # Traffic Signs Recognition System:
 
 ### Original Images:
 
-![traffic1](Traffic_Sign_Recognition/test_images/testing_image.png)
+![traffic1](https://github.com/deepraj1729/Self-Driving-Cars/raw/master/Traffic_Sign_Recognition/test_images/testing_image.png)
 
 ### Preprocessed Images:
 
-![traffic2](Traffic_Sign_Recognition/test_images/preprocessed_img.png)
+![traffic2](https://github.com/deepraj1729/Self-Driving-Cars/raw/master/Traffic_Sign_Recognition/test_images/preprocessed_img.png)
 
 # Polynomial Regression with Deep Learning:
 
-![poly](Polynomial%20Regression/img/poly_fitting.png)
+![poly](https://github.com/deepraj1729/Self-Driving-Cars/raw/master/Polynomial%20Regression/img/poly_fitting.png)
 
 # Behavioural Cloning:
 
