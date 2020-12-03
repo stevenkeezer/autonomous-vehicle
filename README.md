@@ -15,9 +15,8 @@ If you have already installed all the necessary dependencies for the projects in
 The following resources can be found in this github repository:
 
 - `drive.py`: a Python script that you can use to drive the car autonomously, once your deep neural network model is trained. It communicates with the simulator, receives images as input for the neural net and sends the steering angle and speed back.
-- `model.py`: a script to create and train the model, it outputs the trained model afterwards.
 - `model.h5`: contains the trained convolutional network, and is the best choice of the several trained parameter sets.
-- `video.py`: a script that can be used to make a video of the vehicle when it is driving autonomously
+
 
 ## Details About Files In This Directory
 
