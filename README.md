@@ -10,7 +10,7 @@ In this project a simulator provided by [Udacity](https://github.com/udacity/sel
 
 ## Dependencies
 
-If you have already installed all the necessary dependencies for the projects in term 1 you should be good to go! If not, you should install them to get started on this project => [Getting Started for Term 1](../term1_How_to_get_started).
+To install the necessary dependencies I have provided a requirements.txt. Install it into your environment & you should be good to go!
 
 The following resources can be found in this github repository:
 
